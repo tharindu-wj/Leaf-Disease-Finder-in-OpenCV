@@ -1,0 +1,5 @@
+﻿  Source.cpp
+f:\projects\leaf_deseas_opencv\project\project\project\source.cpp(137): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+f:\projects\leaf_deseas_opencv\project\project\project\source.cpp(165): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
+f:\projects\leaf_deseas_opencv\project\project\project\source.cpp(166): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
+  project.vcxproj -> F:\Projects\Leaf_Deseas_OpenCV\Project\Project\x64\Debug\project.exe
